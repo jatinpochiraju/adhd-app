@@ -1,5 +1,5 @@
 
-MindBoost - ADHD Training Game for Teens & Young Adults
+**MindBoost - ADHD Training Game for Teens & Young Adults**
 MindBoost is a web-based game designed to help teens and young adults with ADHD improve cognitive skills such as focus, memory, attention, and impulse control. Players advance through challenging levels, with each one increasing in difficulty to enhance various brain functions. The game includes built-in break timers to promote optimal performance and mental well-being.
 
 Features
